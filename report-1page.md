@@ -29,5 +29,4 @@
 - Mitigation: Thiết lập quyền truy cập hợp lý, sử dụng pull request để kiểm tra code và bật xác thực hai lớp (2FA).
 
 ### 4. Kết luận ngắn
-(4-6 dòng: em học được gì từ bài lab này, phần nào khó nhất, điều gì cần chú ý khi phân tích một sự cố an toàn thông tin.)
 Qua bài lab này, em hiểu rõ hơn về mô hình CIA (Confidentiality, Integrity, Availability) trong an toàn thông tin. Việc phân tích các sự cố giúp xác định được loại rủi ro mà hệ thống có thể gặp phải. Em cũng học được cách xác định threat, vulnerability và mitigation để giảm thiểu rủi ro. Phần khó nhất là phân biệt chính xác giữa ba yếu tố của CIA. Khi phân tích một sự cố an toàn thông tin, cần chú ý xác định đúng tài sản cần bảo vệ và nguyên nhân gây ra lỗ hổng.
